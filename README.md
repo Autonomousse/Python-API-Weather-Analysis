@@ -19,7 +19,7 @@ Your first requirement is to create a series of scatter plots to showcase the fo
 * Cloudiness (%) vs. Latitude
 	* ![Cloudiness](/WeatherPy/Images/Latitude-vs.-Cloudiness.png)
 * Wind Speed (mph) vs. Latitude
-	* ![Wind_Speed](/WeatherPy/Images/Latitude-vs.-Wind Speed.png)
+	* ![Wind_Speed](/WeatherPy/Images/Latitude-vs.-Wind-Speed.png)
 
 After each plot add a sentence or too explaining what the code is and analyzing.
 
