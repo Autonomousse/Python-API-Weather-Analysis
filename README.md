@@ -13,13 +13,13 @@ In this example, you'll be creating a Python script to visualize the weather of 
 Your first requirement is to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
-** ![Temperature](/WeatherPy/Images/Latitude vs. Max Temperature.png)
+	* ![Temperature](/WeatherPy/Images/Latitude vs. Max Temperature.png)
 * Humidity (%) vs. Latitude
-** ![Temperature](/WeatherPy/Images/Latitude vs. Humidity.png)
+	* ![Temperature](/WeatherPy/Images/Latitude vs. Humidity.png)
 * Cloudiness (%) vs. Latitude
-** ![Temperature](/WeatherPy/Images/Latitude vs. Cloudiness.png)
+	* ![Temperature](/WeatherPy/Images/Latitude vs. Cloudiness.png)
 * Wind Speed (mph) vs. Latitude
-** ![Temperature](/WeatherPy/Images/Latitude vs. Wind Speed.png)
+	* ![Temperature](/WeatherPy/Images/Latitude vs. Wind Speed.png)
 
 After each plot add a sentence or too explaining what the code is and analyzing.
 
