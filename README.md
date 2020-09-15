@@ -13,9 +13,13 @@ In this example, you'll be creating a Python script to visualize the weather of 
 Your first requirement is to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
+** ![Temperature](/WeatherPy/Images/Latitude vs. Max Temperature.png)
 * Humidity (%) vs. Latitude
+** ![Temperature](/WeatherPy/Images/Latitude vs. Humidity.png)
 * Cloudiness (%) vs. Latitude
+** ![Temperature](/WeatherPy/Images/Latitude vs. Cloudiness.png)
 * Wind Speed (mph) vs. Latitude
+** ![Temperature](/WeatherPy/Images/Latitude vs. Wind Speed.png)
 
 After each plot add a sentence or too explaining what the code is and analyzing.
 
@@ -45,6 +49,8 @@ Now let's use your skills in working with weather data to plan future vacations.
 * **Note**: if you having trouble displaying the maps try running `jupyter nbextension enable --py gmaps` in your environment and retry.
 * Create a heat map that displays the humidity for every city from the part I of the homework.
 
+![Humidty](/VacationPy/Images/humidty.png)
+
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
     * A max temperature lower than 80 degrees but higher than 70.
@@ -64,3 +70,8 @@ Now let's use your skills in working with weather data to plan future vacations.
 * Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+
+![Hotels](/VacationPy/Images/hotel.png)
+
+
+
