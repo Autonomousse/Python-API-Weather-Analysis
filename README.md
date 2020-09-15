@@ -15,24 +15,38 @@ Your first requirement is to create a series of scatter plots to showcase the fo
 * Temperature (F) vs. Latitude
 	* ![Temperature](/WeatherPy/Images/Latitude-vs.-Max-Temperature.png)
 * Humidity (%) vs. Latitude
-	* ![Temperature](/WeatherPy/Images/Latitude-vs.-Humidity.png)
+	* ![Humidity](/WeatherPy/Images/Latitude-vs.-Humidity.png)
 * Cloudiness (%) vs. Latitude
-	* ![Temperature](/WeatherPy/Images/Latitude-vs.-Cloudiness.png)
+	* ![Cloudiness](/WeatherPy/Images/Latitude-vs.-Cloudiness.png)
 * Wind Speed (mph) vs. Latitude
-	* ![Temperature](/WeatherPy/Images/Latitude-vs.-Wind Speed.png)
+	* ![Wind_Speed](/WeatherPy/Images/Latitude-vs.-Wind Speed.png)
 
 After each plot add a sentence or too explaining what the code is and analyzing.
 
 Your second requirement is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
+	* ![North_Temperature](/WeatherPy/Images/Northern_Hemisphere_-_Max_Temperature_vs._Latitude.png)
 * Southern Hemisphere - Temperature (F) vs. Latitude
+	* ![South_Temperature](/WeatherPy/Images/Southern_Hemisphere_-_Max_Temperature_vs._Latitude.png)
+
 * Northern Hemisphere - Humidity (%) vs. Latitude
+	* ![North_Humidity](/WeatherPy/Images/Northern_Hemisphere_-_Humidity_vs._Latitude.png)
+
 * Southern Hemisphere - Humidity (%) vs. Latitude
+	* ![South_Humidity](/WeatherPy/Images/Southern_Hemisphere_-_Humidity_vs._Latitude.png)
+
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
+	* ![North_Cloudiness](/WeatherPy/Images/Northern_Hemisphere_-_Cloudiness_vs._Latitude.png)
+
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
+	* ![South_Cloudiness](/WeatherPy/Images/Southern_Hemisphere_-_Cloudiness_vs._Latitude.png)
+
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
+	* ![North_Wind_Speed](/WeatherPy/Images/Northern_Hemisphere_-_Wind_Speed_vs._Latitude.png)
+
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
+	* ![South_Wind_Speed](/WeatherPy/Images/Southern_Hemisphere_-_Wind_Speed_vs._Latitude.png)
 
 Your final notebook must:
 
