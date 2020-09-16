@@ -2,13 +2,13 @@
 
 ## Background
 
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
+Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's utilize Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 Now, we know what you may be thinking: "Duh. It gets hotter..."
 But, if pressed, how would you **prove** it?
 
 ## Part I - WeatherPy
 
-In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
+Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
 Your first requirement is to create a series of scatter plots to showcase the following relationships:
 
@@ -28,7 +28,7 @@ Your first requirement is to create a series of scatter plots to showcase the fo
 
 	![Wind_Speed](/WeatherPy/Images/Latitude-vs.-Wind-Speed.png)
 
-After each plot add a sentence or too explaining what the code is and analyzing.
+After each plot add a sentence or too explaining what the code is analyzing.
 
 Your second requirement is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
@@ -74,10 +74,10 @@ Your final notebook must:
 ## Part II - VacationPy
 
 
-Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
+Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part.
 
 * **Note**: if you having trouble displaying the maps try running `jupyter nbextension enable --py gmaps` in your environment and retry.
-* Create a heat map that displays the humidity for every city from the part I of the homework.
+* Create a heat map that displays the humidity for every city from the part I.
 
 ![Humidty](/VacationPy/Images/humidty.png)
 
