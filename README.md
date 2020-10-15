@@ -102,6 +102,3 @@ Now let's use your skills in working with weather data to plan future vacations.
 * Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
 ![Hotels](/VacationPy/Images/hotel.png)
-
-
-
